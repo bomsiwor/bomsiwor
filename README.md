@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Backend Engineering and Nuclear engineering (im serious)**
 
-- 📫 How to reach me **bomsiwor@gmail.com**
+- 📫 How to reach me **hello@bomsiwor.dev** or **bomsiwor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
